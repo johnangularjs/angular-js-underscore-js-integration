@@ -1,7 +1,13 @@
-# An AngularJS module adapting underscore
+# An Angular.JS integrate with Underscore.js
 
 This module exposes underscore's API into angular app's root scope,
 and provides some filters from underscore.
+
+##Angular.js Training Courses 
+
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training in Chennai">Angularjs Training in Chennai</a>
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training">Angularjs Training</a>
+* <a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angular.js Course">Angular.js Course</a>
 
 
 ## Filters
@@ -81,6 +87,8 @@ angular.module('yourAwesomeApp', ['angular-underscore'])
 $ npm install uglify-js -g
 $ uglifyjs angular-underscore.js > angular-underscore.min.js
 ```
+
+<a href="http://javascripttrainingcourses.com/JS/Angularjs-Training" title="Angularjs Training in Chennai">Angularjs Training in Chennai</a> 
 
 ## License
 
